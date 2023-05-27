@@ -1,0 +1,11 @@
+127.0.0.1 - - [21/Apr/2023:17:53:36 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [21/Apr/2023:17:53:38 +0530] "GET /servletsclass1/Stud.html HTTP/1.1" 200 296
+0:0:0:0:0:0:0:1 - - [21/Apr/2023:17:53:38 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [21/Apr/2023:17:56:02 +0530] "GET /servletsclass1/Stud.html HTTP/1.1" 200 298
+0:0:0:0:0:0:0:1 - - [21/Apr/2023:17:56:02 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [21/Apr/2023:17:56:14 +0530] "GET /servletsclass1/insert? HTTP/1.1" 500 1152
+127.0.0.1 - - [21/Apr/2023:17:57:54 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [21/Apr/2023:17:57:54 +0530] "GET /servletsclass1/Stud.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [21/Apr/2023:17:58:02 +0530] "GET /servletsclass1/insert? HTTP/1.1" 500 1152
+0:0:0:0:0:0:0:1 - - [21/Apr/2023:17:59:39 +0530] "GET /servletsclass1/Stud.html HTTP/1.1" 200 293
+0:0:0:0:0:0:0:1 - - [21/Apr/2023:17:59:54 +0530] "GET /servletsclass1/insert?sid=1&sname=guru HTTP/1.1" 200 -

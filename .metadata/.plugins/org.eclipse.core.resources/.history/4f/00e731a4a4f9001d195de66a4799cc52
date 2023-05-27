@@ -1,0 +1,23 @@
+package ds;
+
+public class Mainclass {
+
+		public static void main(String[]args){
+			SLL sll=new SLL();
+			sll.createSll(5);
+			System.out.println("the list is created"+sll.head.value);
+			
+			sll.insertionSll(1, 3);
+			sll.insertionSll(2, 4);
+			sll.insertionSll(3, 5);
+			sll.insertionSll(4, 6);
+			sll.insertionSll(5, 7);
+	        sll.traversalSll();
+	        sll.searchingSll(3);
+	        sll.deleteSll();
+			
+			
+		}
+
+	}
+}

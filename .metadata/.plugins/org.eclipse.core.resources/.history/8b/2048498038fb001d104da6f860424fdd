@@ -1,0 +1,8 @@
+package Singleton;
+
+public class Account {
+private account()
+{
+	System.out.println("drftgyhjk");
+}
+}

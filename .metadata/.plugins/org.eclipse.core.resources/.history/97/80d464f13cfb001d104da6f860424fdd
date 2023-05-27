@@ -1,0 +1,17 @@
+package Singleton;
+
+public class Account {
+static Account a;
+private Account() {
+	System.out.println("object created");
+}
+public static void createobject() {
+	if(a==null) {
+	 a=new Account();
+	}
+	else
+	{
+		System.out.println("object not created");
+	}
+}
+}

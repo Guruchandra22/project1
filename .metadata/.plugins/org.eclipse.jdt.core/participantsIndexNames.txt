@@ -1,0 +1,11 @@
+INDEX VERSION 1.132
+C:\Users\Guru\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3407153701.index
+\Simpleproject\src\main\resources
+C:\Users\Guru\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3019192880.index
+\servletsclass1\src\main\java
+C:\Users\Guru\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3610544435.index
+\Servletlifecycle\src\main\java
+C:\Users\Guru\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\731206464.index
+\guruservalet\src\main\resources
+C:\Users\Guru\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1143344243.index
+\test\src\main\resources

@@ -1,0 +1,14 @@
+127.0.0.1 - - [20/May/2023:12:03:38 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [20/May/2023:12:03:39 +0530] "GET /servletsclass1/Stud.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/May/2023:12:03:39 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [20/May/2023:12:04:20 +0530] "GET /servletsclass1/insert?sid=101&sname=gond&gender=male&phno=00987654 HTTP/1.1" 200 26
+0:0:0:0:0:0:0:1 - - [20/May/2023:12:06:46 +0530] "GET /servletsclass1/update.html HTTP/1.1" 200 306
+0:0:0:0:0:0:0:1 - - [20/May/2023:12:06:57 +0530] "GET /servletsclass1/update.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/May/2023:12:07:33 +0530] "GET /servletsclass1/update?sid=101&phno=9876543 HTTP/1.1" 200 -
+127.0.0.1 - - [20/May/2023:12:18:20 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [20/May/2023:12:18:20 +0530] "GET /servletsclass1/fetch.html HTTP/1.1" 200 226
+0:0:0:0:0:0:0:1 - - [20/May/2023:12:18:35 +0530] "GET /servletsclass1/fetchbyid?sid=101 HTTP/1.1" 200 59
+127.0.0.1 - - [20/May/2023:18:28:01 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [20/May/2023:18:28:04 +0530] "GET /Servletlifecycle/ HTTP/1.1" 200 52
+0:0:0:0:0:0:0:1 - - [20/May/2023:18:28:04 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [20/May/2023:18:28:09 +0530] "GET /Servletlifecycle/life HTTP/1.1" 200 -

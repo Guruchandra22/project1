@@ -1,0 +1,10 @@
+package Singleton;
+
+public class Account {
+private Account() {
+	System.out.println("object created");
+}
+public static void createobject() {
+	Account a=new Account();
+}
+}

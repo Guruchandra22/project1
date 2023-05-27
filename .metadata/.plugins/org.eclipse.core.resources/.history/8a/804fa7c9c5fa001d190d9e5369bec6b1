@@ -1,0 +1,8 @@
+package bike;
+
+public class Bike {
+void bikemodel() {
+	System.out.println("bbbbbbbbbbmmmmmmmmmmmmmm");
+	
+}
+}

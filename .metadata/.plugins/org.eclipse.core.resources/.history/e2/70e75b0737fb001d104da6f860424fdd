@@ -1,0 +1,12 @@
+package Singleton;
+
+public class User {
+public static void main(String[] args) {
+	Account a1=new Account();
+	Account a2=new Account();
+	Account a3=new Account();
+	a1.user();
+	a2.user();
+	
+}
+}

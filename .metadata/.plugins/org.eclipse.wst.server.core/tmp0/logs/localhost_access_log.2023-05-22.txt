@@ -1,0 +1,10 @@
+127.0.0.1 - - [22/May/2023:18:54:19 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [22/May/2023:18:54:20 +0530] "GET /servletsclass1/fetchbyid.html HTTP/1.1" 200 195
+0:0:0:0:0:0:0:1 - - [22/May/2023:18:55:03 +0530] "GET /servletsclass1/fetchbyid.html HTTP/1.1" 200 245
+0:0:0:0:0:0:0:1 - - [22/May/2023:18:55:14 +0530] "GET /servletsclass1/fetchbyid?sid=1 HTTP/1.1" 200 4
+0:0:0:0:0:0:0:1 - - [22/May/2023:18:55:41 +0530] "GET /servletsclass1/fetchbyid?sid=2 HTTP/1.1" 200 63
+127.0.0.1 - - [22/May/2023:18:59:55 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [22/May/2023:18:59:55 +0530] "GET /servletsclass1/fetchbyid.html HTTP/1.1" 200 245
+0:0:0:0:0:0:0:1 - - [22/May/2023:19:00:12 +0530] "GET /servletsclass1/fetchbyid?sid=2 HTTP/1.1" 200 63
+0:0:0:0:0:0:0:1 - - [22/May/2023:19:21:48 +0530] "GET /servletsclass1/fetchbyid.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/May/2023:19:22:02 +0530] "GET /servletsclass1/fetchbyid?sid=2 HTTP/1.1" 200 63

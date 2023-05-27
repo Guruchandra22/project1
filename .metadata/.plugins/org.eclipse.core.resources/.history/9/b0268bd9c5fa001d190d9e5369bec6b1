@@ -1,0 +1,19 @@
+package bike;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import car.Bike;
+
+public class Testbike {
+public static void main(String[] args) {
+//	ClassPathResource  resource=new ClassPathResource("ioc2.xml");
+//	BeanFactory beanfactory=new XmlBeanFactory(resource);
+//	Car c=(Car) beanfactory.getBean("mycar");
+//	c.drive();
+	
+	ApplicationContext context=new ClassPathXmlApplicationContext("ioc2.2.xml");
+	Bike b=(Bike) context.getBean("mybike");
+	b.bikemodel();
+}
+}

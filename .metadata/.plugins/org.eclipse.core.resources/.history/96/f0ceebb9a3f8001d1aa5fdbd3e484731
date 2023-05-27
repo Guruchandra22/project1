@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>maha prabhu neeven illi</title>
+</head>
+<body>
+<form action="update">
+
+sid: <input type="number" name="sid">
+phno:<input type="number" name="phno">
+
+<button>submit</button>
+<button>cancel</button>
+
+</form>
+</body>
+</html>

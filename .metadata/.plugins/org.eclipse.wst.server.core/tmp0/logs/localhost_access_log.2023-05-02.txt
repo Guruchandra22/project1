@@ -1,0 +1,7 @@
+127.0.0.1 - - [02/May/2023:11:20:22 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [02/May/2023:11:20:23 +0530] "GET /practiceservlets/WEB-INF/classes/practdao/Practdao.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [02/May/2023:11:20:23 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [02/May/2023:16:33:17 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [02/May/2023:16:33:18 +0530] "GET /servletsclass1/fetchall.html HTTP/1.1" 200 166
+0:0:0:0:0:0:0:1 - - [02/May/2023:16:33:18 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [02/May/2023:16:34:07 +0530] "GET /servletsclass1/fetchall.html HTTP/1.1" 304 -

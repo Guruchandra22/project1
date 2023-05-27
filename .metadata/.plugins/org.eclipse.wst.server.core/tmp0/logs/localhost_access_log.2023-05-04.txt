@@ -1,0 +1,10 @@
+127.0.0.1 - - [04/May/2023:15:07:16 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [04/May/2023:15:07:16 +0530] "GET /servclass2/servclass2.html HTTP/1.1" 200 1472
+0:0:0:0:0:0:0:1 - - [04/May/2023:15:07:17 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [04/May/2023:15:41:54 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [04/May/2023:15:41:55 +0530] "GET /servclass2/servclass2.html HTTP/1.1" 200 1482
+0:0:0:0:0:0:0:1 - - [04/May/2023:15:42:57 +0530] "GET /servclass2/insert?id=101&name=aaaa&phno=11111111&email=aaaa%40gmail.com&password=111111&cpassword=111111&dob=1111-01-01&gender=male&terms=accepted HTTP/1.1" 200 -
+127.0.0.1 - - [04/May/2023:16:22:04 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [04/May/2023:16:22:05 +0530] "GET /servclass2/servclass2.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [04/May/2023:16:22:05 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [04/May/2023:16:23:08 +0530] "GET /servclass2/insert?id=41&name=sdfghjk&phno=97865423164&email=gmoger492%40gmail.com&password=897645312&cpassword=987645312&dob=2023-05-01&gender=male&terms=accepted HTTP/1.1" 200 -

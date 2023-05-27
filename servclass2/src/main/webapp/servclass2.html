@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<fieldset style="border: solid red; height: 640px; width: 400px;">
+<legend style="color: blue;" ><h1>Employee Form</h1></legend>
+<form action="insert">
+
+<table style="border:solid red;height: 200px ;width: 350px; text-align: center;"border="1px" cellspacing="10px" cellpadding="10px">
+<tr>
+<th>ID:<input type="number" name="id"></th>
+</tr>
+
+<tr>
+<th>Name:<input type="text" name="name"></th>
+</tr>
+<tr>
+<th>Phone no:<input type="number" name="phno"></th>
+</tr>
+<tr>
+<th>Email:<input type="text" name="email"></th>
+</tr>
+
+<tr>
+<th>Password:<input type="password" name="password"></th>
+</tr>
+
+<tr>
+<th>Confirm pwd:<input type="password" name="cpassword"></th>
+</tr>
+
+<tr>
+<th>DOB:<input type="date" name="dob"></th>
+</tr>
+
+<tr>
+<th>
+Country:<select>
+<option value="country">select country </option>
+<option value="country">India </option>
+<option value="country">USA </option>
+<option value="country">Japan </option>
+</select>
+
+</th>
+</tr>
+
+<tr>
+<th>
+<label>Gender:
+male:<input type="radio" name="gender" value="male">
+female:<input type="radio" name="gender" value="female">
+</th>
+</tr>
+
+<tr>
+<th>
+<input type="checkbox" name="terms" value="accepted">accepted terms and conditions.
+</th>
+</tr>
+<tr>
+<th>
+<button>Submit</button>
+<button>Cancel</button>
+</th>
+</tr>
+</table>
+</label>
+
+
+
+</body>
+</html>

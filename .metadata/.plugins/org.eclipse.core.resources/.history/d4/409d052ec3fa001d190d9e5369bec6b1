@@ -1,0 +1,10 @@
+package car;
+
+public class Testdrive {
+public static void main(String[] args) {
+	ClassPathResource resource=new ClassPathResource("ioc1.xml");
+	BeanFactory beanFactory=new XmlBeanFactory(resource);
+	Mobile mobile=(ar) beanFactory.getBean("mycar");
+	mobile.musicplayer();
+}
+}

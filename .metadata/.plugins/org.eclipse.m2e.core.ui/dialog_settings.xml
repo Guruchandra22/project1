@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\Guru\eclipse-workspace\springclass2\src\main\java\car\Testdrive.java"/>
+			<item value="C:\Users\Guru\eclipse-workspace\springsioc\pom.xml"/>
+			<item value="C:\Users\Guru\eclipse-workspace\servletsclass1\src\main\java\controller\Controllfetchall.java"/>
+			<item value="C:\Users\Guru\eclipse-workspace\Hclass1\pom.xml"/>
+			<item value="C:\Users\Guru\eclipse-workspace\test\pom.xml"/>
+			<item value="C:\Users\Guru\eclipse-workspace\Simpleproject\pom.xml"/>
+			<item value="C:\Users\Guru\eclipse-workspace\Sample\src\main\resources\META-INF\persistence.xml"/>
+			<item value="C:\Users\Guru\eclipse-workspace\serveletsproject1\src\main\webapp\WEB-INF\web.xml"/>
+			<item value="C:\Users\Guru\eclipse-workspace\serveletsproject1\src\main\java\basics\File.java"/>
+			<item value="C:\Users\Guru\eclipse-workspace\servletsbasics"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="defaultLocal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="org.pmc"/>
+			<item value="aaaa"/>
+			<item value="pmc.springioc"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="springclass2.2"/>
+			<item value="springclass2"/>
+			<item value="aaaaa"/>
+			<item value="springsioc"/>
+			<item value="springioc"/>
+			<item value="iocbasics"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="542"/>
+		<item key="height" value="995"/>
+		<item key="x" value="689"/>
+		<item key="y" value="0"/>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+		<list key="archetypeGroupId">
+			<item value="org.apache.maven.archetypes"/>
+		</list>
+		<list key="archetypeArtifactId">
+			<item value="maven-archetype-webapp"/>
+		</list>
+		<list key="archetypeVersion">
+			<item value="1.4"/>
+		</list>
+		<list key="repositoryUrl">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Guru\Downloads\guru"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
